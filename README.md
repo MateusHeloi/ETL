@@ -5,7 +5,6 @@ Documentação da resolução de um desafio de ETL realizado durante a formaçã
 
 O objetivo foi transformar bases de origem separadas em duas tabelas organizadas para análise: uma tabela de vendas enriquecida com informações de clientes e uma tabela de metas em formato tabular, com uma linha por vendedor e mês.
 
-> Este repositório registra as etapas e os resultados do desafio. O arquivo `.pbix` e o PDF com o enunciado original não foram enviados junto com os materiais recebidos; por isso, não estão incluídos aqui.
 
 ## O que era para ser feito
 
