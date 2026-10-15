@@ -1,4 +1,4 @@
-# ETL[README.md](https://github.com/user-attachments/files/33465451/README.md)
+
 # Desafio Técnico de ETL com Power Query — Power BI
 
 Documentação da resolução de um desafio de ETL realizado durante a formação na **Educadados**, usando o **Power Query no Power BI**.
